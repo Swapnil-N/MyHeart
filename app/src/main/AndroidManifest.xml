@@ -25,12 +25,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
-            android:screenOrientation="portrait" />
-        <activity
             android:name=".SignUpActivity"
             android:screenOrientation="portrait" />
-        <activity android:name=".SetProfileActivity"></activity>
+        <activity android:name=".SetProfileActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"></activity>
     </application>
 
 </manifest>
