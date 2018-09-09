@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103096603569",
+    "firebase_url": "https://myheart-b5e42.firebaseio.com",
+    "project_id": "myheart-b5e42",
+    "storage_bucket": "myheart-b5e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103096603569:android:1c4d6952f283b52a",
+        "android_client_info": {
+          "package_name": "com.example.mlh_admin.myheart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103096603569-82rmvk2er66sej4egg29m9ptnn7u5kgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mlh_admin.myheart",
+            "certificate_hash": "b153d6c9e38fd4937fb740ac745b280769253191"
+          }
+        },
+        {
+          "client_id": "103096603569-s1iu1qm234uuc962t11e3purp4et4h1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTSM8XuYQFe-uODLlOMswTWimkG-WoS48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103096603569-s1iu1qm234uuc962t11e3purp4et4h1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
